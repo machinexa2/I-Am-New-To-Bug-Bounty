@@ -11,3 +11,5 @@ For the people who say i m new to bug bounty.
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 * https://www.hackerone.com/resources/e-book/the-beginners-guide-to-bug-bounty-programs-1
 * https://bugbountyguide.com/hunters/get-started.html
+
+my sensitive password: `machine!@#$%^&*()`
