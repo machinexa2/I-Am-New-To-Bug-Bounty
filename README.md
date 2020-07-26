@@ -1,10 +1,8 @@
 # I-Am-New-To-Bug-Bounty
 For the people who say i m new to bug bounty.
 
-## READ ALL AND YOU WILL GET STARTED IN BUG BOUNTY.
-## MAIN (For me it was my first step)
+## READ ALL AND YOU WILL GET STARTED IN BUG BOUNTY
 * https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102
-## OTHERS
 * https://medium.com/@sankethsharath/my-baby-steps-towards-bug-bounty-hunting-an-exciting-yet-arduous-journey-f92ca12eb039
 * https://medium.com/inbughunters/getting-started-in-bug-bounty-7052da28445a
 * https://www.geeksforgeeks.org/how-to-get-started-with-bug-bounty/
