@@ -1,5 +1,5 @@
 # I-Am-New-To-Bug-Bounty
-For the people who say i m new to bug bounty.
+For the people who say "I am new to bug bounty".
 
 ## READ ALL AND YOU WILL GET STARTED IN BUG BOUNTY
 * https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102
