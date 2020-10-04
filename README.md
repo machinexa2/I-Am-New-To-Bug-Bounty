@@ -45,10 +45,11 @@ At start i didnt know there was thing as hacking and bug bounty. For me hacking 
 * Finally learnt assembly, did some assembler shits.
 * Completed lots of HTB boxes through hints and nudges, later with least hints (but not insane)
 * Started binary exploitation and haxember playlist of liveoverflow.
+* Learnt stack overflow, heap overflow and format string vulnerabilites
 * Started BB again, this time some informative and N/A :frowning:
 * Developed my first tool, then later more tools and repositories
 * Wrote bash scripts, automated tasks, did some reformation of terminal
-* Watched most videos of liveoverflow again and again.
+* Watched most videos of liveoverflow again and again, did some reversing and pwning
 * Learnt symmetric, non-symmetric encryption, hashes, gpg, signing, HMAC, etc. 
 # Start of 2020
 * Completed my first insane box **Player2**
