@@ -17,8 +17,8 @@ For the people who say "I am new to bug bounty".
 
 # Details below is totally Offtopic!
 ## Personal Hacking Timeline
-Read about 20-30 books, done quite amount of CTFs mostly **HTB**, **TryHackMe** and others like **hacker101**. Spent good time with community and hackerone's hacktivity.
-At start i didnt know there was thing as hacking and bug bounty. For me hacking was a forbidden knowlegde :sweat_smile. For those who are entirely new to this field, how learning journey looks like, what are obstacles etc.
+Read about 20-30 books, done quite amount of CTFs mostly **HTB**, **TryHackMe** and others like **Hacker101** and spent good time with community and hackerone's hacktivity.
+At start i didnt know there was thing as hacking and bug bounty. For me hacking was a forbidden knowlegde :sweat_smile:. For those who are entirely new to this field, how learning journey looks like, what are obstacles etc.
 
 ### Mid 2018
 * Learnt HTML, CSS and Javascript
