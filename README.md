@@ -3,8 +3,8 @@ For the people who say "I am new to bug bounty".
 
 ## Start the journey from here
 * **[Bugcrowd Forums](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)**
-* **[Bug bounty guide](https://bugbountyguide.com/hunters/get-started.html)**
-* **[Bug bounty resources](https://github.com/1ndianl33t/Bugbounty-Resources)**
+* **[Bug Bounty Guide](https://bugbountyguide.com/hunters/get-started.html)**
+* **[Bug Bounty Resources](https://github.com/1ndianl33t/Bugbounty-Resources)**
 * **[Getting started 1](https://medium.com/inbughunters/getting-started-in-bug-bounty-7052da28445a)**
 * **[Getting started 2](https://www.geeksforgeeks.org/how-to-get-started-with-bug-bounty/)**
 * **[Getting started 3](https://owasp.org/www-pdf-archive/Getting_Started_with_Bug_Bounty..pdf)**
