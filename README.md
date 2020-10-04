@@ -12,3 +12,4 @@ For the people who say "I am new to bug bounty".
 * **[Hackerone Guide](https://www.hackerone.com/resources/e-book/the-beginners-guide-to-bug-bounty-programs-1)**
 * **[Baby step toward BB](https://medium.com/@sankethsharath/my-baby-steps-towards-bug-bounty-hunting-an-exciting-yet-arduous-journey-f92ca12eb039)**
 * **[BB Methodology, Tips and Techniques](https://eforensicsmag.com/bug-bounty-methodology-ttp-tacticstechniques-and-procedures-v-2-0/)**
+
