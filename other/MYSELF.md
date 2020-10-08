@@ -39,7 +39,7 @@ At start i didnt know there was thing as hacking and bug bounty. For me hacking 
 # 2020
 * Completed my first insane box **Player2**
 * Found my first actual bug (subdomain takeover) $100
-* Stood 9th in bugcrowd 0x07 levelup ctf and got some cool swag (my first ctf with some reward(
+* Stood 9th in bugcrowd 0x07 levelup ctf and got some cool swag (my first ctf with some reward)
 * Developed website using github pages and some other programming stuff
 * Kept on pwning and popping shell and here i am machinexa now at 2020
 
