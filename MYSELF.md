@@ -13,9 +13,9 @@ At start i didnt know there was thing as hacking and bug bounty. For me hacking 
 * Cheated from youtube to create account in HTB (hack your way in)
 ### Start of 2019
 * Learnt vulnerability disclosure types, about CVEs, bit of XML, JSON and other data types
-* Failed miserably at HTB medium,hard and insane boxes (was called script kiddie once)
-![Script Kiddie](kiddie.png)
-* Made a fresh start, mastering things i already learned!
+* Failed miserably at HTB medium,hard and insane boxes (was called script kiddie once)  
+![Script Kiddie](kiddie.png)  
+* Made a fresh start, mastering things i already learned!  
 * Learnt bash and all its features, cmdline tools like awk, sed, tr, td, cut, pigz, jq, ...
 * Completed simple regex tutorials and some regex crosswords 
 * Discovered what is Github, Gitlab ...
